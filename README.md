@@ -12,7 +12,7 @@ Distillation of teacher-model to student model and improve accuracy and make mod
 
 Student model is DeeplabV3 that is deleted classify BN layer
 
-Teacher model is from [this](https://github.com/madara-tribe/onnxed-DeepLabV3Plus)
+Teacher model is from [this trained-DeeplabV3Plus](https://github.com/madara-tribe/onnxed-DeepLabV3Plus)
 
 <b> each model size</b>
 ```
