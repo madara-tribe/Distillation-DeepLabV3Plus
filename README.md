@@ -5,6 +5,7 @@ teacher model is [trained-DeeplabV3plus](https://github.com/madara-tribe/onnxed-
 Distillation of teacher-model to student model and improve accuracy and make model more light and fast.
 
 <b>Overall</b>
+
 <img src="https://user-images.githubusercontent.com/48679574/144701099-0a45b2ab-f9cb-4845-adb7-2fbcad71a5dc.png" width="700px">
 
 # Result of Speed and accuracy
