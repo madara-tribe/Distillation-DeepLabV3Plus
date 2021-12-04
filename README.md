@@ -6,12 +6,17 @@ Distillation of teacher-model to student model and improve accuracy and make mod
 
 <b>Overall</b>
 
-<img src="https://user-images.githubusercontent.com/48679574/144701099-0a45b2ab-f9cb-4845-adb7-2fbcad71a5dc.png" width="700px">
+<img src="https://user-images.githubusercontent.com/48679574/144701099-0a45b2ab-f9cb-4845-adb7-2fbcad71a5dc.png" width="500px">
 
 # Result of Speed and accuracy
 
 Student model is DeeplabV3 and delete classify BN layer
 Teacher model is from [this](https://github.com/madara-tribe/onnxed-DeepLabV3Plus)
+
+<b>This time Speed and accuracy Relationship about teacher and student model</b>
+
+<img src="https://user-images.githubusercontent.com/48679574/144701798-deb801d6-9384-4b7f-ab06-10a5ca928bff.png" width="500px">
+
 
 ## Speed
 Predict 143 images and calculate its time
