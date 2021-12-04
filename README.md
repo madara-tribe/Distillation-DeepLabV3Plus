@@ -10,7 +10,8 @@ Distillation of teacher-model to student model and improve accuracy and make mod
 
 # Result of Speed and accuracy
 
-Student model is DeeplabV3 and delete classify BN layer
+Student model is DeeplabV3 that is deleted classify BN layer
+
 Teacher model is from [this](https://github.com/madara-tribe/onnxed-DeepLabV3Plus)
 
 <b> each model size</b>
