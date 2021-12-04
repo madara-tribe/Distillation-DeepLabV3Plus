@@ -41,7 +41,7 @@ class KLDivergenceLoss(nn.Module):
         return seg_img
         
     def forward(self, logits, target, thresh = 100):
-
+        # loss for distillation
         log2div = logits.flatten(start_dim=1).clamp(-thresh, thresh).sigmoid()
         tar2div = target.flatten(start_dim=1).clamp(-thresh, thresh).sigmoid().detach()
         kldiv_loss = nn.KLDivLoss(reduction="batchmean")(F.log_softmax((log2div / self.T), dim = 1), F.softmax((tar2div / self.T), dim = 1))*(self.alpha * self.T * self.T)
@@ -52,7 +52,6 @@ class KLDivergenceLoss(nn.Module):
         logits_ = self.give_color_to_seg_img(logits_, n_classes=CLS)
         target_ = torch.argmax(target, dim=1).to(torch.uint8).reshape(4, IMAGE_WIDTH, IMAGE_HEIGHT)
         target_ = self.give_color_to_seg_img(target_, n_classes=CLS)
-        # loss for distillation
         label_loss = self.criterion(logits_, target_)
         
         
