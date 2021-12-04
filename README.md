@@ -15,7 +15,7 @@ Teacher model is from [this](https://github.com/madara-tribe/onnxed-DeepLabV3Plu
 
 <b>This time Speed and accuracy Relationship about teacher and student model</b>
 
-<img src="https://user-images.githubusercontent.com/48679574/144701798-deb801d6-9384-4b7f-ab06-10a5ca928bff.png" width="500px">
+<img src="https://user-images.githubusercontent.com/48679574/144701928-ebd003cd-c6cd-4260-bf2d-99272f65a820.png" width="500px">
 
 
 ## Speed
