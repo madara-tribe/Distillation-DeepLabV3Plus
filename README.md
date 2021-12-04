@@ -12,8 +12,9 @@ Distillation of teacher-model to student model and improve accuracy and make mod
 
 Student model is DeeplabV3 and delete classify BN layer
 Teacher model is from [this](https://github.com/madara-tribe/onnxed-DeepLabV3Plus)
+
 ## Speed
-Predict 143 images and calcurate its time
+Predict 143 images and calculate its time
 
 <b>student model</b>
 ```txt
