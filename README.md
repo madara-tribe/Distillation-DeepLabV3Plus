@@ -40,6 +40,9 @@ Mean Acc: 0.705401
 FreqW Acc: 0.945616
 Mean IoU: 0.668895
 ```
+<img src="https://user-images.githubusercontent.com/48679574/144700993-2411b811-f7a1-4907-8708-952ccfb4723e.png" width="800px">
+<img src="https://user-images.githubusercontent.com/48679574/144700996-0abafd36-499d-4299-8609-1b7309611529.png" width="800px">
+<img src="https://user-images.githubusercontent.com/48679574/144700997-b54d5c07-f549-4e1b-abd3-1e4fbc7eb0ac.png" width="800px">
 
 <b>Teacher model Accracy</b>
 ```txt
@@ -48,8 +51,8 @@ Mean Acc: 0.750294
 FreqW Acc: 0.952008
 Mean IoU: 0.703659
 ```
-<img src="https://user-images.githubusercontent.com/48679574/144700945-89a5bdfd-09bb-4566-86ce-ac6d0b148c7b.png" width="1000px">
-<img src="https://user-images.githubusercontent.com/48679574/144700948-91949c48-fd4c-4618-b893-90faf409af6e.png" width="1000px">
-<img src="https://user-images.githubusercontent.com/48679574/144700951-d9107dd6-72cd-46d3-8165-3b1725c47e97.png" width="1000px">
+<img src="https://user-images.githubusercontent.com/48679574/144700945-89a5bdfd-09bb-4566-86ce-ac6d0b148c7b.png" width="800px">
+<img src="https://user-images.githubusercontent.com/48679574/144700948-91949c48-fd4c-4618-b893-90faf409af6e.png" width="800px">
+<img src="https://user-images.githubusercontent.com/48679574/144700951-d9107dd6-72cd-46d3-8165-3b1725c47e97.png" width="800px">
 
 
