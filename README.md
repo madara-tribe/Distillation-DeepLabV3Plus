@@ -22,6 +22,7 @@ Total params: 3,294,469
 Total params: 3,409,893
 ```
 <b>This time Speed and accuracy Relationship about teacher and student model</b>
+
 model accuracy base line is <b>IOU 60%</b>
 
 <img src="https://user-images.githubusercontent.com/48679574/144701928-ebd003cd-c6cd-4260-bf2d-99272f65a820.png" width="500px">
