@@ -40,8 +40,8 @@ Mean Acc: 0.705401
 FreqW Acc: 0.945616
 Mean IoU: 0.668895
 ```
-<img src="https://user-images.githubusercontent.com/48679574/144700993-2411b811-f7a1-4907-8708-952ccfb4723e.png" width="800px">
 <img src="https://user-images.githubusercontent.com/48679574/144700996-0abafd36-499d-4299-8609-1b7309611529.png" width="800px">
+<img src="https://user-images.githubusercontent.com/48679574/144700993-2411b811-f7a1-4907-8708-952ccfb4723e.png" width="800px">
 <img src="https://user-images.githubusercontent.com/48679574/144700997-b54d5c07-f549-4e1b-abd3-1e4fbc7eb0ac.png" width="800px">
 
 <b>Teacher model Accracy</b>
